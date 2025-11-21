@@ -13,7 +13,7 @@ The movie industry invests billions into content development. Studios, streaming
 - Critical reception
 - Volume/output
 
-However, movie datasets often store multiple genres in a single field, making genre-specific analytics difficult. This project addresses these problems by restructuring the dataset and performing targeted statistical analysis to help decision-makers prioritize which genres to fund, market, or expand. RESEARCH THIS
+However, movie datasets often store multiple genres in a single field, making genre-specific analytics difficult. This project addresses these problems by restructuring the dataset and performing targeted statistical analysis to help decision-makers prioritize which genres to fund, market, or expand. 
 
 🛠 **Tech Stack** 
 
