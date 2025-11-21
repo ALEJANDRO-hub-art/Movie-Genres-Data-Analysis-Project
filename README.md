@@ -47,6 +47,21 @@ Programming & Analysis:
 - Which genres have the largest number of movies with a vote average ≥ 8? 
   (Determining critically acclaimed genres.)
 
+- **Which genres are the most common?**  
+  Based on number of movies produced.
+
+- **Which genres have the highest average budget and revenue?**  
+  Identifying high-cost and high-earning categories.
+
+- **Which genres achieve the highest average popularity?**  
+  Capturing audience interest and engagement.
+
+- **Which genres have high average profit?**  
+  Identify the most financially successful genres.
+
+- **Which genres have the largest number of movies with a vote average ≥ 8?**  
+  Determining critically acclaimed genres.
+
 📌 **Research Hypotheses (H)**
 
 - Movies with high vote averages generate higher profit and revenue. 
