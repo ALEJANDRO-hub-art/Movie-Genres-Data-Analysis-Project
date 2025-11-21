@@ -23,7 +23,7 @@ Programming & Analysis:
 - Pandas
 - NumPy
 
-**Libraries** DONE
+**Libraries** 
 
 - Matplotlib / Seaborn
 
