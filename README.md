@@ -3,7 +3,7 @@
 📘 **Project Overview** 
 
 This project performs an in-depth analytical study of movie genres using a dataset containing key attributes such as popularity, budget, revenue, vote averages, and release year. The objective is to uncover meaningful genre-level insights by examining financial performance, audience reception, and production trends.
-Using Python and pandas, the dataset is cleaned, transformed, and expanded by splitting multi-genre entries and calculating key metrics such as profit. The final dataset enables rich comparative analysis across genres and supports data-driven conclusions about which types of films perform best commercially and critically.
+Using Python, pandas and seaborn, the dataset is cleaned, transformed, and expanded by splitting multi-genre entries and calculating key metrics such as profit. The final dataset enables rich comparative analysis across genres and supports data-driven conclusions about which types of films perform best commercially and critically.
 
 🎯 **Business Problem** 
 
