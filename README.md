@@ -19,9 +19,9 @@ However, movie datasets often store multiple genres in a single field, making ge
 
 Programming & Analysis:
 
--Python
--Pandas
--NumPy
+- Python
+- Pandas
+- NumPy
 
 **Libraries**
 
