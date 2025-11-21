@@ -49,11 +49,11 @@ Programming & Analysis:
 
 📌 **Research Hypotheses (H)**
 
-- Movies with high vote averages generate higher profit and revenue. 
-(Critical success correlates with financial success.)
-- Movies with high popularity generate higher profit and revenue. 
-(Audience interest leads to box office or streaming returns.)
-- Highly budgeted movies return higher revenue and profit. 
-(Studios invest big in genres expected to perform well.)
-- Higher budgets correlate with higher popularity. 
-(More marketing + production quality = more audience engagement.)
+- **Movies with high vote averages generate higher profit and revenue.**  
+  (Critical success correlates with financial success.)
+- **Movies with high popularity generate higher profit and revenue.**  
+  (Audience interest leads to box office or streaming returns.)
+- **Highly budgeted movies return higher revenue and profit.**  
+  (Studios invest big in genres expected to perform well.)
+- **Higher budgets correlate with higher popularity.**  
+  (More marketing and higher production quality lead to increased audience engagement.)
