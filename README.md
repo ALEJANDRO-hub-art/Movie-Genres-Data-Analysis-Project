@@ -36,15 +36,15 @@ Programming & Analysis:
 
 📌 **Research Questions (Q)**
 
-- Which genres are the most common? 
+1. Which genres are the most common? 
   (Based on number of movies produced.)
-- Which genres have the highest average budget and revenue? 
+2. Which genres have the highest average budget and revenue? 
   (Identifying high-cost and high-earning categories.)
-- Which genres achieve the highest average popularity? 
+3. Which genres achieve the highest average popularity? 
   (Capturing audience interest and engagement.)
--Which genres have high avg. Profit? 
+4. Which genres have high avg. Profit? 
   (Identify the most financially successful genres)
-- Which genres have the largest number of movies with a vote average ≥ 8? 
+5. Which genres have the largest number of movies with a vote average ≥ 8? 
   (Determining critically acclaimed genres.)
 
 📌 **Research Hypotheses (H)**
