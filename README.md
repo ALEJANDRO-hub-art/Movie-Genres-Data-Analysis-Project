@@ -1,4 +1,4 @@
-📊 **Movie Genre Data Analysis — Full Project Description**
+# 📊 **Movie Genre Data Analysis — Full Project Description**
 
 📘 **Project Overview** 
 
